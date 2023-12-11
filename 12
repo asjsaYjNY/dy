@@ -24,3 +24,7 @@ trojan://d7006e40-97d6-11ee-8054-1239d0255272@de1.test3.net:443?allowInsecureHos
 trojan://4ce98ed0-97d7-11ee-afbd-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#1211_3
 trojan://8dfbeaa0-97d7-11ee-bde5-1239d0255272@de1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#1211_4
 trojan://c64c6830-97d7-11ee-aff4-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#1211_5
+trojan://3b66be70-97d9-11ee-8bb8-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#1211_11
+trojan://696fc0e0-97d9-11ee-8de9-1239d0255272@de1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#1211_12
+trojan://e7120dc0-97d9-11ee-a89a-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#1211_13
+trojan://1b557640-97da-11ee-9283-1239d0255272@de1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1#1211_14
